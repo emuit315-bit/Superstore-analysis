@@ -22,6 +22,7 @@ git version 2.52.0
 ```
 
 ---
+create an Intro_grp_assignment folder on your pc.on downloads if you want.
 
 ## Step 3 — Clone Repository
 - Open **GitHub Desktop**
@@ -31,10 +32,16 @@ git version 2.52.0
   ```
 - Save in:
   ```
-  C:\Users\<YourName>\Downloads\Intro_grp_assign\Superstore-analysis
+  C:\Users\<YourName>\Downloads\Intro_grp_assign\Superstore-analysis   or    whereever you created the intro grp assignment folder.
   ```
 
 ---
+
+inside the superstore analysis folder create a Data folder, notebooks folder, Visuals folder, report folder, slides folder.
+
+Go to https://www.kaggle.com/datasets/vivek468/superstore-dataset-final    
+
+download the csv file and put it inside the Data folder.
 
 ## Step 4 — Add Dataset File
 Inside your cloned repo folder, ensure you have:
