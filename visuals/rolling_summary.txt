@@ -1,0 +1,7 @@
+12M rolling mean start: $40,353.96
+12M rolling mean end: $61,101.27
+12M rolling mean change: $20,747.31 (51.41%)
+3M rolling mean first year vs last year: $40,067.63 vs $60,748.59
+Linear trend slope (USD/month): $902.01
+Avg month-over-month growth: 41.56%
+Highest avg month: 11, Lowest avg month: 2
